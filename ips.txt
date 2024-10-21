@@ -1,8 +1,6 @@
-thepointsguy.com
-chairish.com
-cincinnati.com
-northjersey.com
-news-press.com
-theroot.com
-tomsguide.com
-news-leader.com
+172.232.238.169
+122.102.52.12
+129.150.50.63
+178.128.80.43
+18.142.183.94
+193.239.166.244
