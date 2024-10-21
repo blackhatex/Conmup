@@ -1,6 +1,6 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.232.238.169:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#172.232.238.169
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@122.102.52.12:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#122.102.52.12
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.150.50.63:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#129.150.50.63
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@178.128.80.43:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#178.128.80.43
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@18.142.183.94:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#18.142.183.94
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@193.239.166.244:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#193.239.166.244
+vless://484bb375-0a67-4439-8fe4-7557d7fe331d@172.232.238.169:443?encryption=none&security=tls&type=ws&host=nyoba.cobainya.workers.dev&sni=nyoba.cobainya.workers.dev&fp=random&path=%2F%3Fed%3D2560#172.232.238.169
+vless://484bb375-0a67-4439-8fe4-7557d7fe331d@122.102.52.12:443?encryption=none&security=tls&type=ws&host=nyoba.cobainya.workers.dev&sni=nyoba.cobainya.workers.dev&fp=random&path=%2F%3Fed%3D2560#122.102.52.12
+vless://484bb375-0a67-4439-8fe4-7557d7fe331d@129.150.50.63:443?encryption=none&security=tls&type=ws&host=nyoba.cobainya.workers.dev&sni=nyoba.cobainya.workers.dev&fp=random&path=%2F%3Fed%3D2560#129.150.50.63
+vless://484bb375-0a67-4439-8fe4-7557d7fe331d@178.128.80.43:443?encryption=none&security=tls&type=ws&host=nyoba.cobainya.workers.dev&sni=nyoba.cobainya.workers.dev&fp=random&path=%2F%3Fed%3D2560#178.128.80.43
+vless://484bb375-0a67-4439-8fe4-7557d7fe331d@18.142.183.94:443?encryption=none&security=tls&type=ws&host=nyoba.cobainya.workers.dev&sni=nyoba.cobainya.workers.dev&fp=random&path=%2F%3Fed%3D2560#18.142.183.94
+vless://484bb375-0a67-4439-8fe4-7557d7fe331d@193.239.166.244:443?encryption=none&security=tls&type=ws&host=nyoba.cobainya.workers.dev&sni=nyoba.cobainya.workers.dev&fp=random&path=%2F%3Fed%3D2560#193.239.166.244
