@@ -1,1 +1,1 @@
-trojan://2040a8e9-5d5a-4fa2-9781-a313776709e5@idc2.feristore.my.id:443?security=tls&type=ws&headerType=none&path=%252Ftrojan&sni=vplay.iflix.com&host=vplay.iflix.com#tes
+trojan://2040a8e9-x12x555@inuu.feristore.my.id:443?security=tls&type=ws&headerType=none&path=%252Ftrojan&sni=vplay.iflix.com&host=vplay.iflix.com#tes
